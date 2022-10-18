@@ -1,0 +1,49 @@
+
+h1{
+    color: black;
+    text-align:center;
+    font-size: 50px;
+}
+
+
+button{
+    background-color: chocolate;
+    padding: 5px 20px;
+    margin: 5px;
+    color: cornsilk;
+    font-size: 20px;
+    text-align: center;
+    float:right;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+button:hover{
+    
+    background-color:chocolate ;
+    color: black;
+}
+h2{
+    text-align: center;
+    margin: 50px;
+    padding: 100px ;
+}
+.don {
+    text-align: center;
+    font-size: 15px;
+}
+.don button1  {
+    color:aqua;
+    background-color:red;
+    padding: 5px 20px;
+    color: white;
+    font-size: 16px;
+    text-align:center;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+.don button1 a:hover{
+    background-color: white;
+    color: red;
+    text-align: center;
+    border: 2px solid whitesmoke;
+}
